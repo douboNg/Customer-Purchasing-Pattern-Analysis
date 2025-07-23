@@ -12,8 +12,11 @@ This project was designed to analyze large-scale retail transaction data. It ide
 - Support targeted marketing strategies based on customer behavior patterns.
 
 ---
+
 #### High-Level System Architecture
 ![Diagram](https://github.com/douboNg/Customer-Purchasing-Pattern-Analysis/blob/cba179191935c5d8f6cbbb123a013dbef68ba61a/Diagram%20High-Level%20System%20Architecture.jpeg)
+
+---
 
 #### 🛠️ Tech Stack
 
