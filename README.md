@@ -1,12 +1,10 @@
-# 🛍️ Customer Purchasing Pattern Analysis
+### 🛍️ Customer Purchasing Pattern Analysis
 
 This project was designed to analyze large-scale retail transaction data. It identifies customer segments using clustering techniques and supports data-driven marketing strategies through interactive dashboards.
 
-> 🎯 Developed as a personal project to explore distributed data processing, clustering algorithms, and business intelligence reporting.
-
 ---
 
-## 📌 Objectives
+#### 📌 Objectives
 
 - Process and analyze large retail datasets using **Hadoop MapReduce**.
 - Identify meaningful customer segments using **K-means clustering**.
@@ -14,8 +12,10 @@ This project was designed to analyze large-scale retail transaction data. It ide
 - Support targeted marketing strategies based on customer behavior patterns.
 
 ---
+#### High-Level System Architecture
+![Diagram](https://github.com/douboNg/Customer-Purchasing-Pattern-Analysis/blob/cba179191935c5d8f6cbbb123a013dbef68ba61a/Diagram%20High-Level%20System%20Architecture.jpeg)
 
-## 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 | Component            | Technologies                                       |
 |---------------------|----------------------------------------------------|
@@ -26,7 +26,7 @@ This project was designed to analyze large-scale retail transaction data. It ide
 
 ---
 
-## 🧱 Key Features
+#### 🧱 Key Features
 
 - **Distributed Processing**: Utilizes Hadoop MapReduce to handle large transaction datasets efficiently.
 - **Dual Implementation**: Supports both Java MapReduce and Python (via Hadoop Streaming) for flexibility.
@@ -36,7 +36,7 @@ This project was designed to analyze large-scale retail transaction data. It ide
 
 ---
 
-## 📧 Contact
+#### 📧 Contact
 
 **Duong Nguyen**  
 Email: duongnd3326@gmail.com  
